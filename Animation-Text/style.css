@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+
+h1{
+    font-family: sans-serif;
+    text-align: center;
+    margin-top: 150px;
+    font-size: 150px;
+    font-weight: 800;
+    color: transparent;
+    background-image: url(https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzg5cmV6eHNhenR6dWR5c296N2szdHgybHpkanM3enU4bnFpbHFjbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT4uQ6HaStH5UX7EBO/giphy.gif);
+    background-position: center;
+    -webkit-background-clip: text;
+}
